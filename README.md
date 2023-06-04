@@ -5,7 +5,7 @@
 Font Awesome is the Internet's icon library and toolkit, used by millions of
 designers, developers, and content creators.
 
-## - Documentation -
+## - || Documentation || -
 
 Learn how to get started with Font Awesome and then dive deeper into other and advanced topics:
 
